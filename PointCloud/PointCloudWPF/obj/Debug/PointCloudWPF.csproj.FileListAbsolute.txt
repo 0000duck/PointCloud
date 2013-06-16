@@ -1,0 +1,41 @@
+c:\users\jeremy\documents\visual studio 2012\Projects\PointCloudWPF\PointCloudWPF\bin\Debug\PointCloudWPF.exe.config
+c:\users\jeremy\documents\visual studio 2012\Projects\PointCloudWPF\PointCloudWPF\bin\Debug\PointCloudWPF.exe
+c:\users\jeremy\documents\visual studio 2012\Projects\PointCloudWPF\PointCloudWPF\bin\Debug\PointCloudWPF.pdb
+c:\users\jeremy\documents\visual studio 2012\Projects\PointCloudWPF\PointCloudWPF\obj\Debug\PointCloudWPF.csprojResolveAssemblyReference.cache
+c:\users\jeremy\documents\visual studio 2012\Projects\PointCloudWPF\PointCloudWPF\obj\Debug\MainWindow.baml
+c:\users\jeremy\documents\visual studio 2012\Projects\PointCloudWPF\PointCloudWPF\obj\Debug\MainWindow.g.cs
+c:\users\jeremy\documents\visual studio 2012\Projects\PointCloudWPF\PointCloudWPF\obj\Debug\App.g.cs
+c:\users\jeremy\documents\visual studio 2012\Projects\PointCloudWPF\PointCloudWPF\obj\Debug\PointCloudWPF_MarkupCompile.cache
+c:\users\jeremy\documents\visual studio 2012\Projects\PointCloudWPF\PointCloudWPF\obj\Debug\PointCloudWPF.g.resources
+c:\users\jeremy\documents\visual studio 2012\Projects\PointCloudWPF\PointCloudWPF\obj\Debug\PointCloudWPF.Properties.Resources.resources
+c:\users\jeremy\documents\visual studio 2012\Projects\PointCloudWPF\PointCloudWPF\obj\Debug\PointCloudWPF.csproj.GenerateResource.Cache
+c:\users\jeremy\documents\visual studio 2012\Projects\PointCloudWPF\PointCloudWPF\obj\Debug\PointCloudWPF.exe
+c:\users\jeremy\documents\visual studio 2012\Projects\PointCloudWPF\PointCloudWPF\obj\Debug\PointCloudWPF.pdb
+C:\Users\WrightEdge LSFL 014\Desktop\Point_Cloud-2013-06-11\Point Cloud\PointCloudWPF\bin\Debug\PointCloudWPF.exe.config
+C:\Users\WrightEdge LSFL 014\Desktop\Point_Cloud-2013-06-11\Point Cloud\PointCloudWPF\obj\Debug\PointCloudWPF.exe
+C:\Users\WrightEdge LSFL 014\Desktop\Point_Cloud-2013-06-11\Point Cloud\PointCloudWPF\obj\Debug\PointCloudWPF.pdb
+C:\Users\WrightEdge LSFL 014\Desktop\Point_Cloud-2013-06-11\Point Cloud\PointCloudWPF\bin\Debug\PointCloudWPF.exe
+C:\Users\WrightEdge LSFL 014\Desktop\Point_Cloud-2013-06-11\Point Cloud\PointCloudWPF\bin\Debug\PointCloudWPF.pdb
+C:\Users\WrightEdge LSFL 014\Desktop\Point_Cloud-2013-06-11\Point Cloud\PointCloudWPF\obj\Debug\PointCloudWPF.csprojResolveAssemblyReference.cache
+C:\Users\WrightEdge LSFL 014\Desktop\Point_Cloud-2013-06-11\Point Cloud\PointCloudWPF\obj\Debug\MainWindow.baml
+C:\Users\WrightEdge LSFL 014\Desktop\Point_Cloud-2013-06-11\Point Cloud\PointCloudWPF\obj\Debug\MainWindow.g.cs
+C:\Users\WrightEdge LSFL 014\Desktop\Point_Cloud-2013-06-11\Point Cloud\PointCloudWPF\obj\Debug\App.g.cs
+C:\Users\WrightEdge LSFL 014\Desktop\Point_Cloud-2013-06-11\Point Cloud\PointCloudWPF\obj\Debug\PointCloudWPF_MarkupCompile.cache
+C:\Users\WrightEdge LSFL 014\Desktop\Point_Cloud-2013-06-11\Point Cloud\PointCloudWPF\obj\Debug\PointCloudWPF.g.resources
+C:\Users\WrightEdge LSFL 014\Desktop\Point_Cloud-2013-06-11\Point Cloud\PointCloudWPF\obj\Debug\PointCloudWPF.Properties.Resources.resources
+C:\Users\WrightEdge LSFL 014\Desktop\Point_Cloud-2013-06-11\Point Cloud\PointCloudWPF\obj\Debug\PointCloudWPF.csproj.GenerateResource.Cache
+D:\JJVANEPS16\AFRL Discovery Lab\Project Autonomous NAO\Point Cloud\PointCloudWPF\bin\Debug\PointCloudWPF.exe.config
+D:\JJVANEPS16\AFRL Discovery Lab\Project Autonomous NAO\Point Cloud\PointCloudWPF\obj\Debug\PointCloudWPF.exe
+D:\JJVANEPS16\AFRL Discovery Lab\Project Autonomous NAO\Point Cloud\PointCloudWPF\obj\Debug\PointCloudWPF.pdb
+D:\JJVANEPS16\AFRL Discovery Lab\Project Autonomous NAO\Point Cloud\PointCloudWPF\bin\Debug\PointCloudWPF.exe
+D:\JJVANEPS16\AFRL Discovery Lab\Project Autonomous NAO\Point Cloud\PointCloudWPF\bin\Debug\PointCloudWPF.pdb
+D:\JJVANEPS16\AFRL Discovery Lab\Project Autonomous NAO\Point Cloud\PointCloudWPF\bin\Debug\naoqi-dotnet4.dll
+D:\JJVANEPS16\AFRL Discovery Lab\Project Autonomous NAO\Point Cloud\PointCloudWPF\bin\Debug\naoqi-dotnet4.xml
+D:\JJVANEPS16\AFRL Discovery Lab\Project Autonomous NAO\Point Cloud\PointCloudWPF\obj\Debug\PointCloudWPF.csprojResolveAssemblyReference.cache
+D:\JJVANEPS16\AFRL Discovery Lab\Project Autonomous NAO\Point Cloud\PointCloudWPF\obj\Debug\MainWindow.baml
+D:\JJVANEPS16\AFRL Discovery Lab\Project Autonomous NAO\Point Cloud\PointCloudWPF\obj\Debug\MainWindow.g.cs
+D:\JJVANEPS16\AFRL Discovery Lab\Project Autonomous NAO\Point Cloud\PointCloudWPF\obj\Debug\App.g.cs
+D:\JJVANEPS16\AFRL Discovery Lab\Project Autonomous NAO\Point Cloud\PointCloudWPF\obj\Debug\PointCloudWPF_MarkupCompile.cache
+D:\JJVANEPS16\AFRL Discovery Lab\Project Autonomous NAO\Point Cloud\PointCloudWPF\obj\Debug\PointCloudWPF.g.resources
+D:\JJVANEPS16\AFRL Discovery Lab\Project Autonomous NAO\Point Cloud\PointCloudWPF\obj\Debug\PointCloudWPF.Properties.Resources.resources
+D:\JJVANEPS16\AFRL Discovery Lab\Project Autonomous NAO\Point Cloud\PointCloudWPF\obj\Debug\PointCloudWPF.csproj.GenerateResource.Cache

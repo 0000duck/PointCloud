@@ -1,0 +1,13 @@
+﻿<Window x:Class="PointCloudWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="676" Width="1178">
+    <Grid Height="1130" Width="1626">
+        <Canvas HorizontalAlignment="Left" Height="611" Name="canvas1" Margin="10,0,0,0" VerticalAlignment="Top" Width="967"/>
+        <Button Content="Start Point Cloud" Height="34" HorizontalAlignment="Left" Margin="1012,25,0,0" Name="button1" VerticalAlignment="Top" Width="100" Click="Button_Click_1"/>
+        <TextBox Text="IP Adress" Height="30" HorizontalAlignment="Left" Margin=" 1012,60,0,0" Name="ipBox" VerticalAlignment="Top" Width="100"/>
+        <Button Content="Rest" Height="34" HorizontalAlignment="Left" Margin="1012,91,0,0" Name="rest_button" VerticalAlignment="Top" Width="100" Click="rest_button_Click"/>
+        <CheckBox Content="Path Extrapolation" HorizontalAlignment="Left" Margin="1012,130,0,0" VerticalAlignment="Top" Name="checkBox" Checked="checkBox_Checked"/>
+        <CheckBox Content="Rest" HorizontalAlignment="Left" Margin="1012,151,0,0" VerticalAlignment="Top" Name="restBox" Checked="restBox_Checked"/>
+    </Grid>
+</Window>
