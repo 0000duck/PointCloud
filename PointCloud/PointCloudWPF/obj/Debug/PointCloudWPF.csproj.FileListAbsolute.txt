@@ -39,3 +39,6 @@ D:\JJVANEPS16\AFRL Discovery Lab\Project Autonomous NAO\Point Cloud\PointCloudWP
 D:\JJVANEPS16\AFRL Discovery Lab\Project Autonomous NAO\Point Cloud\PointCloudWPF\obj\Debug\PointCloudWPF.g.resources
 D:\JJVANEPS16\AFRL Discovery Lab\Project Autonomous NAO\Point Cloud\PointCloudWPF\obj\Debug\PointCloudWPF.Properties.Resources.resources
 D:\JJVANEPS16\AFRL Discovery Lab\Project Autonomous NAO\Point Cloud\PointCloudWPF\obj\Debug\PointCloudWPF.csproj.GenerateResource.Cache
+C:\Users\Jeremy\AutoNAO\PointCloud\PointCloudWPF\bin\Debug\PointCloudWPF.exe.config
+C:\Users\Jeremy\AutoNAO\PointCloud\PointCloudWPF\obj\Debug\PointCloudWPF.exe
+C:\Users\Jeremy\AutoNAO\PointCloud\PointCloudWPF\obj\Debug\PointCloudWPF.pdb

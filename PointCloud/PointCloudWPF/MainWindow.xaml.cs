@@ -23,6 +23,7 @@ namespace PointCloudWPF
     /// </summary>
     public partial class MainWindow : Window
     {
+        //test git push
         GeometryModel3D[] points = new GeometryModel3D[640 * 480];
         int pointDen = 10; // point density, counter intuitive, increasing the number increases the number of pixels skipped, and speeds up the program.
         int frameCount = 0; // counts the itteration of the frame
