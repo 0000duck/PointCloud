@@ -42,3 +42,6 @@ D:\JJVANEPS16\AFRL Discovery Lab\Project Autonomous NAO\Point Cloud\PointCloudWP
 C:\Users\Jeremy\AutoNAO\PointCloud\PointCloudWPF\bin\Debug\PointCloudWPF.exe.config
 C:\Users\Jeremy\AutoNAO\PointCloud\PointCloudWPF\obj\Debug\PointCloudWPF.exe
 C:\Users\Jeremy\AutoNAO\PointCloud\PointCloudWPF\obj\Debug\PointCloudWPF.pdb
+C:\Users\WrightEdge LSFL 014\Desktop\pointCloudGit\TRY5\PointCloud\PointCloudWPF\bin\Debug\PointCloudWPF.exe.config
+C:\Users\WrightEdge LSFL 014\Desktop\pointCloudGit\TRY5\PointCloud\PointCloudWPF\obj\Debug\PointCloudWPF.exe
+C:\Users\WrightEdge LSFL 014\Desktop\pointCloudGit\TRY5\PointCloud\PointCloudWPF\obj\Debug\PointCloudWPF.pdb
